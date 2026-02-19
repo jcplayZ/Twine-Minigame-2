@@ -1,0 +1,80 @@
+:: StoryTitle
+Twine Minigame 2
+
+
+:: StoryData
+{
+  "ifid": "d1d488d1-e008-43d0-8226-d7aa8a51892b",
+  "format": "SugarCube",
+  "format-version": "2.37.3",
+  "start": "Start",
+  "zoom": 0.6
+}
+
+
+:: A Glow Stick {"position":"1125,475","size":"100,100"}
+This must be the correct answer! Blatently a glow stick must be snapped in half to work breaking the inner glass vial!.. oh but i suppose a glass vial wasn't quite the answer.
+
+as you look around you spot no further post its, you decide to ''[[head back?->Start]].''
+
+
+:: A Library! {"position":"1175,600","size":"100,100"}
+As you follow the post-it you reach a room with a Single Snickers bar.
+Just laying there as the Post-It besides it reads
+"Congratulations! You solved all the riddles! Here is your reward!"
+
+It's kinda suprising that no one else made it here but you grab the snickers regardless and enjoy your prize, Chosing to ''[[Leave the building]]''.
+
+
+:: A Mall {"position":"1325,600","size":"100,100"}
+What building has the most stores? Of course a mall, but alas it seems maybe what you made out wasnt all that there was? Its best to ''[[Go Back->An Egg]]''.
+
+
+:: An Egg {"position":"1250,475","size":"100,100"}
+//This must be the correct answer! Afterall you cant eat an egg whilst it's still in its shell, and you spot more post-its//
+
+and the post it with the clue written on it, albiet it seemed to have been erased and written over you can vaguely read 
+"W==h==at ==bu==ilding h==a==s the most stor__==|==__es?"
+
+Ahead you spy 2 Post-Its one to the left and one to the right.
+
+The left one you can see "''[[A Library!]]''"
+Whilst on the right you can percieve the word "''[[A Mall]]''"
+
+While i suppose you can just ''[[head back]]'' rather than continue this.
+
+
+:: Duct Tape {"position":"1375,475","size":"100,100"}
+This must be the correct answer! You've worked with duct tape quite awhile and you gotta tear off a piece to use it... although that really isnt breaking it in a sense more just tearing it off and its still super usable...
+
+as you look around you spot no further post its, you decide to ''[[head back?->Start]].''
+
+
+:: Leave the building {"position":"1250,725","size":"100,100"}
+As you finally make it home you feel a sharp pain in yout gut, perhaps eating a snickers off the floor wasnt the best idea.
+
+
+:: Start {"position":"1250,350","size":"100,100"}
+<!--
+This game is very simple, i enjoy twine as its a great intro to programming.
+-->
+
+!The Trail
+
+You are a urban explorer following a trail of post-its but reach a crossroads
+It seems this Post-It has a clue.
+
+The Post-It reads
+"What has to be broken before you can use it?"
+
+Up ahead to the left you see another Post-It reading ''[[Duct Tape]].''
+and to the right you see another post-it reading ''[[A Glow Stick]].''
+straight ahead that Post-It reads ''[[An Egg]].''
+
+
+:: head back {"position":"1250,225","size":"100,100"}
+As you leave the premises you feel an overwhelming curiousity.
+ Who left those post-its?
+  Why?
+   And where do they lead?
+You decide to ''[[go back inside the building->Start]].''
